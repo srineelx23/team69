@@ -4,3 +4,4 @@ add the values
 
 
 submit data to database
+show it to the user
